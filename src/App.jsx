@@ -24,7 +24,7 @@ function App() {
       <div className="container-fluid d-flex flex-column min-vh-100" style={{ fontFamily: 'Poppins, sans-serif', backgroundColor: '#f5f5f5' }}>
         {/* Header Section */}
         <header className="text-white text-center py-4 shadow-sm" style={{ backgroundColor: '#343a40', fontSize: '1.75rem', fontWeight: 'bold' }}>
-          <h1>🛒 Terminator Super Market</h1>
+          <h1>🛒 More Super Market</h1>
         </header>
 
         {/* Navigation Bar */}
